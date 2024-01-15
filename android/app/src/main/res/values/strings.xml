@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Web Convert</string>
+    <string name="title_activity_main">Web Convert</string>
+    <string name="package_name">com.griffincrescent.app</string>
+    <string name="custom_url_scheme">com.griffincrescent.app</string>
+</resources>
